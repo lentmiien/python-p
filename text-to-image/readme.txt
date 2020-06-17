@@ -1,3 +1,6 @@
+Run:
+python p/text-to-image/app.py
+
 Packages:
 .\Scripts\pip install --user pillow
 

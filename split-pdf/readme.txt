@@ -1,7 +1,15 @@
-Need to have the following 2 folders in your "Documents" folder
+Run:
+python p/split-pdf/app.py
 
-- split-pdf-in
-Put the pdf file that you wish to split in this folder
+Packages:
+.\Scripts\pip install --user PyPDF2
 
-- split-pdf-out
-The output when done
+Need to have the following folder structure in your "Documents" folder
+
+sp
+ |
+ + in
+ |   (place pdf files here to split)
+ |
+ + out
+ |   (output here when done)
